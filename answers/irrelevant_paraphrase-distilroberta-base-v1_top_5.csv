@@ -1,0 +1,59 @@
+zero or more occurrences of the immediately preceding character or regular expression
+we can use the "?" operator in a number of different ways.
+tokenizing (segmenting) words
+token learner, and token segmenter
+token segmenter takes a raw test sentence and segments it into the tokens in the vocabulary
+learning a vocabulary
+putting words/tokens in a standard format
+by comparing the root of the three words.
+the task of determining that two words have the same root
+the minimum number of operations it takes to edit one into the other.
+a neural network
+by multiplying conditional probabilities
+a hidden Markov model
+normalize
+bigram models are more complicated and require more context
+by training the parameters of both models on the training set, and then comparing how well they
+the perplexity of a language model is the inverse probability of the test set,
+by shaven off a bit of probability mass from more frequent events and give it
+pruning
+if the probabilities assigned to a Stationary sequence are invariant with respect to
+it would require huge numbers of parameters and impossibly large training sets
+logistic regression
+binarized features
+because accuracy doesn't work well when the classes are unbalanced
+k disjoint subsets
+classify an observation into one of two classes
+gradient descent is a method that finds the minimum of a function by figuring out in
+go the other way instead return
+L2 regularization
+softmax regression
+connotations are the aspects of a word's meaning that are related to a
+to represent a word as a point in a multidimensional semantic space that is 
+words in the vocabulary
+documents
+because it will tend to be high just when the two vectors have large values in the same
+context c j
+a single vector with the minimum sum of squared distances to each of the vectors
+input units, hidden units, and output units
+the vocabulary
+a representation of the process of computing a mathematical expression
+assigning a part-of-speech label to each of a sequence of
+anything that can be referred to with a proper name
+a hidden Markov model allows us to talk about both observed events hidden Markov model and
+it doesn't distinguish the use of a word as the beginning of a span from
+any network that contains a cycle within its network connections
+a model that predicts a value at time t based on a linear
+removing information from the context and adding information likely to be needed for later decision making
+to delete information from the context that is no longer needed.
+was the corpus collected with consent?
+to avoid numerical issues and effective loss of gradients during training.
+a self-attention layer, a feedforward layer, and a layer norm.
+negative log likelihood loss
+languages that can omit pronouns
+a beam search is performed using a fixed-size memory footprint.
+head 1  head 2 ...  head h
+chrP and chrR are combined
+80%
+guess the missing information from an input
+it provides precision and recall.

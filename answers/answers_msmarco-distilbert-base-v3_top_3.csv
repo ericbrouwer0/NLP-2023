@@ -1,0 +1,59 @@
+zero or more a's or bs
+?= pattern
+normalizing word formats
+token learner, and token segmenter
+to make use of the current and previous output tokens
+to learn a vocabulary
+putting words/tokens in a standard format.
+lemmatization is the task of determining that two words have the same root, 
+text normalization
+the edit distance between two strings is defined as the minimum number of operations needed to transform one string
+predicting upcoming words from prior word context
+by multiplying a number of conditional probabilities.
+a hidden Markov model
+normalize
+there are some practical issues.
+whichever model assigns a higher probability to the test set
+the number of possible next words that can follow any word.
+we have to shave off a bit of probability mass from some more frequent events and
+pruning
+when the probability distributions are invariant
+because it is a classifier that makes a simple assumption about how the features interact.
+naive Bayes is a probabilistic classifier.
+features can express any property of the input text.
+there are many different sources covering the many kinds of text classification tasks.
+k disjoint subsets called folds
+to classify an observation into one of two classes
+a method that finds the minimum of a function by figuring out in which direction the
+an online algorithm
+L2 regularization
+binary logistic regression
+affective meanings or connotations
+the idea behind vector semantics is to represent word meaning in NLP.
+the number of times a particular word appears in a particular document
+the number of times a particular word appears in a particular document
+it will tend to be high just when the two vectors have large values in the same dimensions
+
+a centroid is a single vector that has the minimum sum of squared distances
+input units, hidden units, and output units
+the most likely output
+a graph is a representation of the process of computing a mathematical expression.
+assigning a part-of-speech label to each of a sequence of
+anything that can be referred to with a named entity proper name
+n i = 1
+limited context
+any network that contains a cycle within its network connections
+a model that predicts a value at time t based on a linear
+removing information no longer needed from the context and adding information likely to be needed for later decision
+to delete information from the context that is no longer needed.
+the ability to compare an item of interest to a collection of other items in a way
+to avoid numerical issues and to an effective loss of gradients during training.
+feedforward layers, residual connections, and normalizing layers
+a lexical gap is a metric that measures how close the current label is
+languages that can omit pronouns
+a fixed-size memory footprint
+the cross-attention layer is the same.
+chrF
+15%
+to predict the original inputs for each of the masked tokens.
+the [CLS] token provides contextualized representations of the input tokens.

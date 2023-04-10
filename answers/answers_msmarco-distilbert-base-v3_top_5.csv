@@ -1,0 +1,59 @@
+zero or more occurrences of the immediately previous character or regular expression
+it is used to search for information about pet fish for cousin David.
+tokenizing (segmenting) words
+token learner, and token segmenter
+to segment a test sentence into tokens that are in the vocabulary.
+learning a vocabulary by iteratively merging tokens
+putting words/tokens in a standard format
+lemmatization is performed by removing suffixes from the end of the word
+the task of determining that two words have the same root, despite their surface differences.
+the minimum number of operations it takes to edit one into the other.
+predicting upcoming words from prior word context
+by multiplying the conditional probability of a word given all the previous words.
+a class of probabilistic models markov that assume we can predict the probability of some future
+normalize
+bigram models are conditional on the previous two words rather than the previous word.
+by fitting the test set
+the inverse probability of the test set
+shave off a bit of probability mass from more frequent events and give it to the
+pruning
+if the probabilities assigned to a Stationary sequence are invariant with respect to
+because it is too hard to compute directly without simplifying assumptions.
+naive Bayes can be used in many situations.
+any kind of feature
+because accuracy doesn't work well when the classes are unbalanced.
+k disjoint subsets
+to classify an observation into one of two classes
+a method that finds the minimum of a function by figuring out in which direction the
+an online algorithm that minimizes the loss function
+L2 regularization
+multinomial logistic regression
+affective meanings
+the idea that meaning is related to the distribution of words in context.
+each word in the vocabulary
+documents from a collection of documents
+because it will tend to be high just when the two vectors have large values in the same
+that the best way to weigh the association between two words is to ask how much more they co
+a single vector that has the minimum sum of squared distances to each of the vector
+input units, hidden units, and output units
+the vocabulary
+a representation of the process of computing a mathematical expression
+assigning a part-of-speech label to each of a sequence of
+anything that can be referred to with a proper name
+a hidden Markov model allows us to talk about both observed events hidden Markov model (
+it does not have an impact on the decision being made.
+any network that contains a cycle within its network connections
+a model that predicts a value at time t based on a linear
+removing information no longer needed from the context and adding information likely to be needed for later decision
+to delete information from the context that is no longer needed.
+relevance in the current context
+to avoid numerical issues and effective loss of gradients during training.
+self-attention layer, feedforward layer, residual connections, normalizing layers
+a lexical gap is a gap between the system output and the gold output.
+languages that can omit pronouns
+it is a fixed-size memory footprint that can be parameterized to be wider or narrow
+cross-attention allows the decoder to attend to each of the source language words as projected
+the chrF metric is calculated by using the number of character n-gram
+80%
+to predict the original inputs for each of the masked tokens
+it provides precision and recall

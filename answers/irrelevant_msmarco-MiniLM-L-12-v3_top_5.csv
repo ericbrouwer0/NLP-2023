@@ -1,0 +1,59 @@
+zero or more occurrences of the immediately previous character or regular expression
+pattern
+tokenizing (segmenting) words
+token learner, and token segmenter
+token segmenter is used to segment a test sentence into tokens in a vocabulary.
+learning a vocabulary
+putting words/tokens in a standard format
+lemmatization is performed by removing suffixes from the end of the word
+the task of determining that two words have the same root, despite their surface differences.
+the minimum edit distance between two strings is defined as the minimum number of operations it takes to edit
+a tool for generating text for misinformation, phishing, radicalization, and
+by using a history h.
+a class of probabilistic models markov that assume we can predict the probability of some future
+normalize
+bigram models are more accurate and trigram models are more accurate.
+by comparing how well the two trained models fit on a test set.
+the inverse probability of the test set, normalized by the number of words.
+by adding one (Laplace) smoothing
+pruning
+if the probabilities assigned to a Stationary sequence are invariant with respect to
+to apply the naive Bayes classifier to text, we need to consider
+naive Bayes is easy to implement and very fast to train
+any kind of feature
+because accuracy is dependent on precision and recall.
+k disjoint subsets
+to study the importance of individual features
+finding the minimum of a function
+an online algorithm that minimizes the loss function
+naive Bayes
+binary logistic regression
+affective meanings
+the idea behind vector semantics is that meaning is related to the distribution of words in context.
+each word in the vocabulary
+documents
+because it will tend to be high just when the two vectors have large values in the same
+that the best way to weigh the association between two words is to ask how much more they co
+a single vector with the minimum sum of squared distances to each of the vectors
+input units, hidden units, and output units
+a probability distribution
+a representation of the process of computing a mathematical expression
+assigning a part-of-speech label to each of a sequence of
+anything that can be referred to with a proper name
+a hidden Markov model allows us to talk about both observed events hidden model and hidden events
+it does not have an impact on the decision being made.
+any network that contains a cycle within its network connections
+a model that predicts a value at time t based on a linear
+removing information no longer needed from the context, and adding information likely to be needed for later
+to delete information from the context that is no longer needed.
+relevance in the current context
+to avoid numerical issues and effective loss of gradients during training.
+self-attention layer, feedforward layer, norm, and normalizing layers
+a lexical gap is where we know all the words that can occur.
+languages that can omit pronouns
+it returns the best paths
+cross-attention allows the decoder to attend to each of the source language words as projected
+the chrF metric is computed by using the number of character n-
+80%
+Train an n-gram language model on the training corpus, using the current set of
+it is prepended to the input sentence pair.

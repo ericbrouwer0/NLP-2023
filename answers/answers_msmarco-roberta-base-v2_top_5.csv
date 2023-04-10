@@ -1,0 +1,59 @@
+zero or more occurrences of the immediately previous character or regular expression
+pattern
+tokenizing (segmenting) words
+token learner, and token segmenter
+token segmenter is a tool used to tokenize test sentences.
+learning a vocabulary
+the task of putting words/tokens in a standard format
+lemmatization is performed by removing suffixes from the end of the word
+the task of determining that two words have the same root, despite their surface differences.
+the minimum number of operations it takes to edit one into the other.
+a neural network
+by multiplying the conditional probabilities.
+a model Markov chain
+counting in a corpus and normalizing
+bigram models are discounted, while trigram models are unipolated.
+how well they fit
+the inverse probability of the test set
+by shaven off a bit of probability mass from more frequent events and give it
+pruning
+if the probabilities assigned to a Stationary sequence are invariant with respect to
+it would take huge numbers of parameters and impossibly large training sets to compute directly
+.
+features can express any property of the input text we want.
+accuracy doesn't work well when the classes are unbalanced
+a x-ray image of the beam is generated.
+to classify an observation into two classes
+an online algorithm that minimizes the loss function
+an online algorithm that minimizes the loss function
+L2 regularization
+softmax regression
+affective meanings
+to represent a word as a point in a multidimensional semantic space that is 
+each word type in the vocabulary
+documents
+because it will tend to be high just when the two vectors have large values in the same
+best way to weigh the association between two words is to ask how much more the two words co
+a single vector with the minimum sum of squared distances
+input units, hidden units, and output units
+a probability distribution over words
+a representation of the process of computing a mathematical expression
+assigning a part-of-speech label to each of a sequence of
+a person, a location, an organization
+a hidden Markov model allows us to talk about both observed events hidden Markov model (
+because it does not affect the decision being made.
+any network that contains a cycle within its network connections
+Train an n-gram language model on the training corpus, using the current set of
+removing information no longer needed from the context and adding information likely to be needed for later decision
+to delete information from the context that is no longer needed
+relevance in the current context
+to avoid numerical issues and effective loss of gradients during training
+self-attention layer, feedforward layer, norm, and layer normalization
+no word or phrase, short of an explanatory footnote, can express the exact meaning
+languages that can omit pronouns
+it is a beam search
+cross-attention allows the decoder to attend to each of the source language words as projected
+chrF is computed by using the chrF algorithm.
+80%
+to predict the original inputs for each of the masked tokens
+sentence embedding
